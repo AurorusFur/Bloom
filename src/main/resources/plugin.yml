@@ -1,0 +1,7 @@
+name: Bloom
+version: '${project.version}'
+main: org.aurorus.bloom.Main
+api-version: 1.19
+authors: [ Aurorus ]
+description: Bloom your flowers
+website: https://aurorus.dev
