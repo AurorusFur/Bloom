@@ -1,2 +1,2 @@
 # Bloom
-Bloom is an open-source minecraft paper/spigot plugin what allow you to copy small flowers with bone meal like big ones.
+Bloom is an open-source minecraft paper/spigot plugin that allows you to copy small flowers using bone meal like big ones.
